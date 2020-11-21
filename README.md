@@ -1,2 +1,8 @@
-# zee5-dl-bot
-heroku deploy https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNirmalraj10567%2Fzee5-dl-bot%2F
+# zee5-dl-bot and mx player movies
+heroku deploy create your own from fork and deploy connect your github
+API_HASH
+TG_BOT_TOKEN
+APP_ID
+who want to add these in reveal config
+support my YouTube channel for more open source code 
+https://m.youtube.com/channel/UCLHZQApnu1vN2j7fKDgv74w
