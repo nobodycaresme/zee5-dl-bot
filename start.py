@@ -10,7 +10,7 @@ client = TelegramClient('anfghohn', int(os.environ.get("APP_ID" )), os.environ.g
 async def handler(event):
     chat = await event.get_chat()
     await client.send_message(chat,"""💁hey i am created by infinitrocyber subscribe my channel https://m.youtube.com/channel/UCLHZQApnu1vN2j7fKDgv74w 👍👍👍👍👍👍
-    i support zee5 and mx player-movies full mx player later develop send me mx player like https://www.mxplayer.in/movie/ba472677b661a6d09ab73f47d33c0c90 """)
+    i support zee5 and mx player-movies full mx player later develop send me mx players like https://www.mxplayer.in/movie/ba472677b661a6d09ab73f47d33c0c90 """)
     
 
 @client.on(events.NewMessage(pattern='(?i)https://www.zee5.com'))
